@@ -18,7 +18,7 @@ const ContactList = (props) => {
     <div className="ui main my-4">
       <div className="ui celled list my-4">
         <h2>
-          Contact List as
+          Contact List
         </h2>
         <div className="">
 
